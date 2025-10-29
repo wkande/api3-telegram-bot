@@ -1,0 +1,20 @@
+{
+  "development": {
+    "token": "<telegram-bot-token>",
+    "keys": {
+      "openrouter": "<openrouter-key>"
+    },
+    "immunity": {
+      "<telegram-username>": ""
+    }
+  },
+  "production": {
+    "token": "<telgram-bot-token>",
+    "keys": {
+      "openrouter": "<openrouter-key>"
+    },
+    "immunity": {
+      "telegram-username": ""
+    }
+  }
+}
