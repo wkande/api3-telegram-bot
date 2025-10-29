@@ -10,10 +10,10 @@ IMPORTANT: When using the doc from `api3-discord-bot` docs, be sure to substitut
 <iframe src="https://api3dao.github.io/api3-discord-bot/pm2" 
   style="display:block;
   position: fixed;
-  top: 0;
+  top: 100;
   left: 0;
   right: 0;
   bottom: 0;
   width: 100%;
-  height: 100%;">
+  height: 100%;border:1px solid;lightgrey;">
   </iframe>
