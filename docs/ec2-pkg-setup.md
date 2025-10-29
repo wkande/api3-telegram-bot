@@ -12,5 +12,5 @@ Uses the same instructions found in the `api3-discord-bot` docs. The file is emb
   right: 0;
   bottom: 0;
   width: 100%;
-  height: 75%;"
+  height: 70%;"
   ></iframe>
