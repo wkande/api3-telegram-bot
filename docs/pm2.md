@@ -7,4 +7,13 @@ Uses the same instructions found in the `api3-discord-bot` docs for PM2. The fil
 
 IMPORTANT: When using the doc from `api3-discord-bot` docs, be sure to substitute the word `discord` with `telegram`.
 
-<iframe src="https://api3dao.github.io/api3-discord-bot/pm2" width="100%" height="100%"></iframe>
+<iframe src="https://api3dao.github.io/api3-discord-bot/pm2" 
+  style="display:block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;">
+  </iframe>
