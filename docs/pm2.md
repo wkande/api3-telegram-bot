@@ -14,5 +14,5 @@ IMPORTANT: When using the doc from `api3-discord-bot` docs, be sure to substitut
   right: 0;
   bottom: 0;
   width: 100%;
-  height: 75%;">
+  height: 65%;">
   </iframe>
